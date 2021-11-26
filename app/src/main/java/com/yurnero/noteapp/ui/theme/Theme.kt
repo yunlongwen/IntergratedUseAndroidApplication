@@ -1,4 +1,4 @@
-package com.yurnero.jetpack_compose.ui.theme
+package com.yurnero.noteapp.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

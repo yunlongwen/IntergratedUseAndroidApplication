@@ -1,4 +1,4 @@
-package com.yurnero.jetpack_compose
+package com.yurnero.noteapp
 
 import org.junit.Test
 

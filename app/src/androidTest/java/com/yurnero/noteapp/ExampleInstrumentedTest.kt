@@ -1,4 +1,4 @@
-package com.yurnero.jetpack_compose
+package com.yurnero.noteapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
